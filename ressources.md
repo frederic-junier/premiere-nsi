@@ -8,6 +8,9 @@ title:  "Ressources pour le cours de NSI"
 * [Sujets d'E3C2 de la banque publique](http://quandjepasselebac.education.fr/e3c/#BNS%2FBac%20G%C3%A9n%C3%A9ral%2FEnseignements%20de%20sp%C3%A9cialit%C3%A9%2FSp%C3%A9cialit%C3%A9%20num%C3%A9rique%20et%20sciences%20informatiques%2Fe3c-2)
 * [Un outil pour télécharger tous les sujets sur son PC](https://github.com/frederic-junier/Outils/blob/master/telechargement_e3c/telecharger_e3c.py)
 
+## Ressources pour le programme de première NSI
+
+* L'excellente [chaîne peertube de Pierre Marquestaut](https://peertube.lyceeconnecte.fr/video-channels/pierre.marquestaut_channel/videos).
 
 ## Tutoriels Python
 
